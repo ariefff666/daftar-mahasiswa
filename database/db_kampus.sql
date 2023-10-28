@@ -48,12 +48,12 @@ INSERT INTO `tb_mahasiswa` (`id_mahasiswa`, `nim`, `nama_mahasiswa`, `jenis_kela
 (3, '09021182328014', 'Muhammad Zakaa Shahzada', 'Laki-laki', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Banyuasin', 'Indralaya'),
 (4, '09021182328013', 'R.A Nur Afifah Widyadhana', 'Perempuan', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Muara Enim', 'Indralaya'),
 (5, '09021282328069', 'Putri Alimah Azizah', 'Perempuan', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Palembang', 'Indralaya'),
-(25, '09021182328021', 'Syakira Febriani', 'Perempuan', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Palembang', 'Indralaya'),
-(26, '090211823280', 'A', 'Laki-laki', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Palembang', 'Indralaya'),
-(27, '090211823280', 'Bima', 'Laki-laki', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Lubuk Linggau', 'Indralaya'),
-(28, '090211823280', 'C', 'Laki-laki', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Palembang', 'Indralaya'),
-(29, 'qw', 'qd', 'Laki-laki', 'zc', 'zcd', 'zc', 'Indralaya'),
-(31, '090211823280', 'Hilda', 'Perempuan', 'fasilkom', 'informatika', 'BANDung', 'Palembang');
+(6, '09021182328021', 'Syakira Febriani', 'Perempuan', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Palembang', 'Indralaya'),
+(7, '09021182328013', 'Nayla Mutia Renata', 'Perempuan', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Jambi', 'Indralaya'),
+(8, '09021182328016', 'Aulia Salsabella', 'Perempuan', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Pagar Alam', 'Indralaya'),
+(9, '09021182328017', 'Ahmad Afif Verdian Syaputra', 'Laki-laki', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Palembang', 'Indralaya'),
+(10, '09021182328018', 'Bima Razin Pamungkas', 'Laki-laki', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Lubuk Linggau', 'Indralaya'),
+(11, '09021182328019', 'Moza Gina Aliya', 'Perempuan', 'Fakultas Ilmu Komputer', 'Teknik Informatika', 'Jambi', 'Indralaya');
 
 --
 -- Indexes for dumped tables
