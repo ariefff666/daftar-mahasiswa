@@ -100,9 +100,5 @@
         </div>
       </div>
     </section>
-
-    <script>
-
-    </script>
   </body>
 </html>
